@@ -10,6 +10,19 @@ Based in Vienna, transforming 10+ years of professional experience in high-press
 
 ---
 
+### 🏗️ Featured Projects
+
+- **[A projekt neve] – Team Capstone Project** (80% Complete 🚧)
+  - **Context:** Developed as our final exam project at CodeFactory Vienna. Following the successful exam, our team is currently working on the final 20% to reach full production-ready status.
+  - **Role:** **Tech Lead** & Backend Developer. I am responsible for managing the GitHub workflow, team synchronization, and architecting the dynamic data layers.
+  - **Tech Stack:** PHP 8.2, Symfony, MySQL, Docker, Twig.
+  - [👉 View Team Project](IDE_ILLESZD_BE_A_LINKET)
+
+- **Vienna Event Manager** (Individual Project)
+  - **Focus:** Full-stack event management system with a focus on database relations and server-side logic.
+  - **Tech Stack:** PHP, Symfony, MySQL.
+  - [👉 View Individual Project](https://github.com/peterb89/vienna-events-manager)
+
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** PHP 8.2, SQL (MySQL), Python (Basics)
