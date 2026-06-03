@@ -1,28 +1,30 @@
 # Hi, I'm Peter Bozso! 👋
 
 ### 🚀 Junior Backend Developer | PHP & Symfony Specialist
-Currently based in Vienna, transforming 10+ years of professional experience in high-pressure logistics into a career in Backend Development.
+Based in Vienna, transforming 10+ years of professional experience in high-pressure logistics into a career in Backend Development. I focus on building scalable, containerized server-side logic and managing complex development workflows.
 
-- 🎓 Currently completing an intensive **Backend Web Development** program at **CodeFactory Vienna**.
-- 🛠️ Building robust server-side logic and database architectures with **PHP 8.2, Symfony, and MySQL**.
-- 🧠 Expanding into AI with **Microsoft Azure Machine Learning (AI-900)**.
-- 🏆 Awarded **"Driver of the Year 2015"** in London (Domino's) – I bring the same reliability and precision to backend architecture.
+- 🎓 **Graduate** of the intensive **Backend Web Development** program at **CodeFactory Vienna** (Completed May 2026).
+- 🏗️ **Lead Developer** for our final team project – I managed the **GitHub repository**, coordinated version control, and architected the **dynamic data layers**.
+- 🛠️ Building robust server-side logic and database architectures with **PHP 8.2, Symfony, MySQL, and Docker**.
+- 🏆 Awarded **"Driver of the Year 2015"** in London (Domino's) – I bring the same reliability, speed, and precision to backend architecture.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** PHP 8.2, SQL (MySQL), Python (Basics), HTML5, CSS3, JavaScript
-- **Frameworks:** Symfony, Bootstrap 5
-- **Backend Tech:** Doctrine ORM, Twig, RESTful APIs, Database Design
-- **DevOps:** Git, GitHub, XAMPP
+- **Languages:** PHP 8.2, SQL (MySQL), Python (Basics)
+- **Frameworks & Templating:** Symfony, Twig (Dynamic Data Rendering)
+- **Containerization & Environment:** Docker, Docker Desktop
+- **Backend Tech:** Doctrine ORM, RESTful APIs, Database Design, Composer
+- **DevOps & Leadership:** Advanced Git, GitHub (Repo Management & Branching Strategies), Team Coordination
 
 ---
 
 ### 📈 Current Learning Path
-- Deep diving into **Symfony Framework** architecture and security.
-- Completing **Azure AI-900** certification.
-- Transitioning from high-level logistics to high-quality code.
+- 🐳 Mastering **Docker-based workflows** and container orchestration.
+- 🔒 Deep diving into **Symfony Security** and advanced API development.
+- 🧠 Completing **Azure AI-900** certification to bridge Backend with AI.
+- 🏗️ Transitioning from managing logistics networks to architecting high-quality code.
 
 ---
 
@@ -30,4 +32,4 @@ Currently based in Vienna, transforming 10+ years of professional experience in 
 - **LinkedIn:** [Peter Bozso on LinkedIn](https://www.linkedin.com/in/peter-bozso-a2b7761b9/)
 - **Portfolio:** [Check my Vienna Event Manager project!](https://github.com/peterb89/vienna-events-manager)
 
-"I focus on what happens under the hood: clean logic, secure databases, and reliable performance."
+> "I focus on what happens under the hood: clean logic, secure databases, and reliable performance."
