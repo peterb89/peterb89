@@ -16,7 +16,7 @@ Based in Vienna, transforming 10+ years of professional experience in high-press
   - **Context:** Developed as our final exam project at CodeFactory Vienna. Following the successful exam, our team is currently working on the final 20% to reach full production-ready status.
   - **Role:** **Tech Lead** & Backend Developer. I am responsible for managing the GitHub workflow, team synchronization, and architecting the dynamic data layers.
   - **Tech Stack:** PHP 8.2, Symfony, MySQL, Docker, Twig.
-  - [👉 View Team Project](IDE_ILLESZD_BE_A_LINKET)
+  - [👉 View Team Project](https://github.com/peterb89/pet_adoption_final)
 
 - **Vienna Event Manager** (Individual Project)
   - **Focus:** Full-stack event management system with a focus on database relations and server-side logic.
@@ -43,6 +43,10 @@ Based in Vienna, transforming 10+ years of professional experience in high-press
 
 ### 📫 How to reach me:
 - **LinkedIn:** [Peter Bozso on LinkedIn](https://www.linkedin.com/in/peter-bozso-a2b7761b9/)
-- **Portfolio:** [Check my Vienna Event Manager project!](https://github.com/peterb89/vienna-events-manager)
+- **Portfolio & Projects:**
+  - 👥 **Team Exam Project** – (https://github.com/peterb89/pet_adoption_final)
+    *Role: **Tech Lead**. This was our final exam project, and we are currently working on the final 20% to complete it.*
+  - 👨‍💻 **Vienna Event Manager** – (https://github.com/peterb89/vienna-events-manager)
+    *My individual project focusing on server-side logic and database architecture.*
 
 > "I focus on what happens under the hood: clean logic, secure databases, and reliable performance."
