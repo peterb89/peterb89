@@ -12,7 +12,7 @@ Based in Vienna, transforming 10+ years of professional experience in high-press
 
 ### 🏗️ Featured Projects
 
-- **[A projekt neve] – Team Capstone Project** (80% Complete 🚧)
+- **[Pet Adoption] – Team Capstone Project** (80% Complete 🚧)
   - **Context:** Developed as our final exam project at CodeFactory Vienna. Following the successful exam, our team is currently working on the final 20% to reach full production-ready status.
   - **Role:** **Tech Lead** & Backend Developer. I am responsible for managing the GitHub workflow, team synchronization, and architecting the dynamic data layers.
   - **Tech Stack:** PHP 8.2, Symfony, MySQL, Docker, Twig.
@@ -43,6 +43,7 @@ Based in Vienna, transforming 10+ years of professional experience in high-press
 
 ### 📫 How to reach me:
 - **LinkedIn:** [Peter Bozso on LinkedIn](https://www.linkedin.com/in/peter-bozso-a2b7761b9/)
+- **Email: bozsipeter@gmail.com
 - **Portfolio & Projects:**
   - 👥 **Team Exam Project** – (https://github.com/peterb89/pet_adoption_final)
     *Role: **Tech Lead**. This was our final exam project, and we are currently working on the final 20% to complete it.*
